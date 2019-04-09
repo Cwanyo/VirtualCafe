@@ -10,12 +10,6 @@ Augmented reality application that turn the surrounding environments into the vi
 
 [![Demo](Docs/poster.png)](https://youtu.be/NjW_Qm63NFU "Watch Demo")
 
-# Features
-
-### - Area Mapping
-
-### - Object Detection (require server side)
-
 # Contributors
 
 - Chatchawan yoojuie

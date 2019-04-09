@@ -1,6 +1,6 @@
 # Virtual Cafe
 
-This application is a part of the Senior Project I (CS3200) that created by Assumption University students.
+This application is a part of Senior Project I (CS3200) that created by Assumption University students.
 
 Link to our [Slide](Docs/slide.pdf)
 
@@ -8,7 +8,9 @@ Link to our [Slide](Docs/slide.pdf)
 
 Augmented reality application that turn the surrounding environments into the virtual world using Google Tango device
 
-[![Demo](Docs/poster.png)](http://www.youtube.com/watch?v=NjW_Qm63NFU "Demo")
+<!-- [![Demo](Docs/poster.png)](https://youtu.be/NjW_Qm63NFU "Watch Demo") -->
+
+[![Demo](Docs/poster.png)](Docs/demo.mp4 "Watch Demo")
 
 # Features
 

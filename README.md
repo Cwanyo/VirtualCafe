@@ -2,9 +2,7 @@
 
 This application is a part of Senior Project I (CS3200) that created by Assumption University students.
 
-Link to [Slide](Docs/slide.pdf)
-
-Link to [Demo](https://youtu.be/NjW_Qm63NFU)
+Link to [Slide](Docs/slide.pdf), [Demo](https://youtu.be/NjW_Qm63NFU)
 
 # Description
 

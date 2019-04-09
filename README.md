@@ -8,9 +8,7 @@ Link to our [Slide](Docs/slide.pdf)
 
 Augmented reality application that turn the surrounding environments into the virtual world using Google Tango device
 
-<p align="center">
-    <img src="Docs/poster.png" height="350px">
-</p>
+[![Demo](Docs/poster.png)](http://www.youtube.com/watch?v=NjW_Qm63NFU "Demo")
 
 # Features
 

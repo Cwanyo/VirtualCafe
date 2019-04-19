@@ -12,6 +12,6 @@ Augmented reality application that turn the surrounding environments into the vi
 
 # Contributors
 
-- Chatchawan yoojuie
+- Chatchawan Yoojuie
 - Pathompong Kunapermsiri
 - Natthakul Boonmee
